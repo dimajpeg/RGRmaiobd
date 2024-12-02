@@ -1,0 +1,5 @@
+pandas
+kazoo
+loguru
+matplotlib
+seaborn
